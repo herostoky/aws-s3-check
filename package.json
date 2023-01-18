@@ -1,0 +1,23 @@
+{
+  "name": "aws-s3-check",
+  "version": "1.0.0",
+  "description": "Testing AWS S3 server access with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herostoky/aws-s3-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herostoky/aws-s3-check/issues"
+  },
+  "homepage": "https://github.com/herostoky/aws-s3-check#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1296.0"
+  }
+}
